@@ -23,6 +23,7 @@ The dashboard includes several pages of detailed analytics:
 1. Revenue & Order Trends
 * Total revenue and orders by month
 * Seasonal demand insights
+
 ![](/cctv-1.png)
 
 2. Order Performance by City
@@ -40,6 +41,7 @@ The dashboard includes several pages of detailed analytics:
 5. Review Sentiment
 * Orders categorized by review sentiment (Positive, Mixed, Negative, Neutral)
 * Useful to enhance product listings and after-sales service
+  
 ![](/cctv-2.png)
 
 # Tools & Technologies Used

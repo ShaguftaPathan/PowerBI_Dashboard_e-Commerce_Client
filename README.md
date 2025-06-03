@@ -59,7 +59,7 @@ The dashboard includes several pages of detailed analytics:
 * Provided clear visual feedback loops using review data for product enhancement
 * <a href="https://github.com/ShaguftaPathan/PowerBI_Dashboard_e-Commerce_Client/blob/main/CCTV_Dashboard.pdf">View Dashboard</a>
 
-#Summary / Conclusion
+# Summary / Conclusion
 This project illustrates the power of combining business data with visual analytics. The e-commerce CCTV retailer gained a comprehensive view of their operations and was able to take targeted actions to reduce delivery issues, improve customer satisfaction, and grow revenue.
 
 “This dashboard gave us visibility we never had before-especially in identifying shipping issues and customer drop-offs.” – *Client feedback*

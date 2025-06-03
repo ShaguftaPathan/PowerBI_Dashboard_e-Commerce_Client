@@ -43,7 +43,6 @@ The dashboard includes several pages of detailed analytics:
 * Useful to enhance product listings and after-sales service
   
 ![](/cctv-2.png)
-
 # Tools & Technologies Used
 
 * Power BI Desktop for interactive dashboards

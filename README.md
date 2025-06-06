@@ -1,3 +1,5 @@
+<a href= "https://shaguftapathan.github.io/PowerBI_Dashboard_e-Commerce_Client/">View Project</a>
+
 Comprehensive Power BI dashboard for an e-commerce CCTV business. Tracks revenue, order issues, customer segments, and shipping KPIs to answer client questions and guide strategic decisions.
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Motivation</b></span>  

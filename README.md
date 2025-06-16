@@ -49,8 +49,7 @@ The dashboard includes several pages of detailed analytics:
 * Power BI Desktop for interactive dashboards  
 * DAX for advanced measures and KPIs  
 * Excel/CSV as the primary data source  
-* Python - NLP for Customer Segmentation <a href="https://shaguftapathan.github.io/Python-RFM_Customer_Segmentation/">View Project</a>  
-* RFM for Sentiment/Review analysis <a href="https://shaguftapathan.github.io/Pyhton-NLP_Sentiment_Analysis/">View Project</a>
+* Python - RFM for Sentiment/Review analysis & NLP for Customer Segmentation <a href="https://shaguftapathan.github.io/Pyhton_Sentiment_Analyis_Cust_Segmentation/">View Project</a>
 
 <span style="color:#4a89c2; font-size: 22px;"><b>Key Outcomes</b></span>
 
